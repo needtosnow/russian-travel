@@ -13,7 +13,7 @@
   left: 0;
   opacity: .3;
   transition: .6s ease;
-  z-index: 1;
+  z-index: 0;
 }
 
 .cover__background:hover::after {
